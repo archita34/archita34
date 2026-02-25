@@ -56,6 +56,13 @@
 </picture>
 
 ###
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/archita34/archita34/output/pacman.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/archita34/archita34/output/pacman.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/archita34/archita34/output/pacman.svg">
+</picture>
+
+###
 
 <div align="center">
   <a href="https://open.spotify.com/user/jzpah63l25gpzf5mpxvp6onec">
